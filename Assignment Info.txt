@@ -1,0 +1,24 @@
+Assignment Link
+https://docs.google.com/document/d/1220RwW1i5NRaZq-ol1f_vrNKBxaTbmnWK05Gj7K18Xk/edit
+
+Problem Statement: 
+Build a RESTful service that extracts expense date from a receipt. Please feel free to use any language and framework of your choice. Deploy the service on any cloud platform like Heroku/AWS/GCP. The service should contain one API which has the following contract:
+
+Request:
+POST /extract_date
+
+Payload:
+{“base_64_image_content”: <base_64_image_content>}
+
+Response:
+If date is present:
+{“date”: “YYYY-MM-DD”}
+If date is not present:
+{“date”: null}
+
+Calculate the accuracy of the service against the sample receipts dataset given. This can be calculated as follows:
+
+accuracy = (number of receipts for which the service extracted correct date/total receipts)*100%
+
+Sample Receipt Dataset Link:
+https://drive.google.com/drive/folders/1tsNzkpVvfbEQDVOFTuverce1CqBUWSYC?usp=sharing
