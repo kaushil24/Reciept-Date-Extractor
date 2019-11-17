@@ -1,7 +1,8 @@
 import pytesseract as ptr
 from PIL import Image
 import os
-print("Import Successful")
+
+
 class TesseractTxtExtractor():
 
     def extractTxt(self,imgNme):
@@ -9,6 +10,8 @@ class TesseractTxtExtractor():
         st = ptr.image_to_string(os.path.join(loc, imgNme))
         return st
 
-tx = TesseractTxtExtractor()
-st = tx.extractTxt("0cc46a10.jpeg")
-print(st)
+if __name__=="__main__":
+
+    tx = TesseractTxtExtractor()
+    st = tx.extractTxt("1ae93f0a.jpeg")
+    print(st)
