@@ -74,7 +74,7 @@ if __name__ == "__main__":
     # f = open("./Scripts/sampleText.txt", "r")
     # st = f.read()
     textext = te.TesseractTxtExtractor()
-    st = textext.extractTxt("3c73f675.jpeg")
+    st = textext.extractTxt("2edff68d.jpeg")
     print(st)
     dx = dateExtractor()
     date = dx.extractDate(st) 
