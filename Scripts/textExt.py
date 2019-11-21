@@ -3,6 +3,7 @@ from PIL import Image
 import os
 
 
+
 class TesseractTxtExtractor():
 
     def extractTxt(self,imgNme):
