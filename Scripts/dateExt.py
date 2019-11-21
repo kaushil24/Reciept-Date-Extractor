@@ -35,23 +35,34 @@ class dateExtractor():
 
  
 
-        # For dates like: 24.Jun.19 or 2.Jan.2019
+        # For dates like: 24.Jun.19 or 2/Jan/2019 
         elif re.search(r"\d{1,2}[/.-][a-z]{3}[./-]\d{2,4}", content.lower()):
             temp = re.findall(r"\d{1,2}[/.-][a-z]{3}[./-]\d{2,4}", content.lower())[0]
             ls = re.split("[./-]", temp)
             return self.formatMaker(ls[0], str(self.mnths.index(ls[1])+1), ls[2])
             
-        # For dates like: Apr07'19
-        elif re.search(r"[a-z]{3}\d{1,2}\'\d{2,4}", content.lower()):
+        # For dates like: 'jan 28, 2019', 'december 29, 2018', 'jul 1, 2019', "sep07'18", "apr07'16"
+        elif re.search(r"[a-z]{3,9}[\s']*\d{1,2}[\s.',]+\d{2,4}", content.lower()):
             content = content.lower()
-            temp = re.findall(r"[a-z]{3}\d{1,2}\'\d{2,4}", content)[0]
+            temp = re.findall(r"[a-z\s]{3,9}[\s']*\d{1,2}[\s.',]+\d{2,4}", content)[0]
+            print("********", temp, "****************")
+            # d = re.sub(r"^[a-z]", "", temp[-5:-3])
+            # m = str(self.mnths.index(temp[:3])+1)
+            # y = temp[-2:]
             
-            d = re.sub(r"^[a-z]", "", temp[-5:-3])
-            m = str(self.mnths.index(temp[:3])+1)
-            y = temp[-2:]
-            
-            return self.formatMaker(d, m, y)
+            m = list(map((lambda x: x[1:]), re.findall(r"[\W\s][a-z]{3}", temp)))[0]
+            print(m)
 
+            d = list(map((lambda x: x[1:-1]), re.findall(r"[\D]\d{1,2}[\D]", temp)))[0]
+            m = self.mnths.index(m)+1
+            y = temp[-2:] 
+            return self.formatMaker(d, str(m), y)
+
+        elif re.search(r"[a-z]{3, 8}\s\d{1,2}[.\s]+\d{2,4}", content.lower()):
+            content = content.lower()
+            temp = re.findall(r"[a-z]{3, 8}\s\d{1,2}\s\d{2,4}", content)
+
+           # d = re.find("\s\d{1,2}")
 
         else:
             return "NaN"
@@ -63,7 +74,7 @@ if __name__ == "__main__":
     # f = open("./Scripts/sampleText.txt", "r")
     # st = f.read()
     textext = te.TesseractTxtExtractor()
-    st = textext.extractTxt("ed731156.jpeg")
+    st = textext.extractTxt("3c73f675.jpeg")
     print(st)
     dx = dateExtractor()
     date = dx.extractDate(st) 
