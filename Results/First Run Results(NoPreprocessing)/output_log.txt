@@ -1,0 +1,712 @@
+0 :   |  9347d5f7.jpeg : 2016-07-12
+1 :   |  459b00d4.jpeg : NaN
+2 :   |  0a8a955f.jpeg : NaN
+******** beverages 3,98 ****************
+exception occured at 9f6518d2.jpeg
+4 :   |  fc4067f4.jpeg : 2019-06-25
+5 :   |  9aca41c9.jpeg : 2019-01-05
+6 :   |  c1c6a9fa.jpeg : 2018-12-28
+7 :   |  fb5af2cc.jpeg : 2019-04-28
+8 :   |  d7ddc370.jpeg : NaN
+9 :   |  6a42604c.jpeg : 2008-07-16
+10 :   |  eb1818b7.jpeg : NaN
+******** april 10, 2019 ****************
+exception occured at 939492cb.jpeg
+12 :   |  e968011e.jpeg : NaN
+13 :   |  d02db5bc.jpeg : 2019-06-17
+14 :   |  102dd660.jpeg : 2013-07-25
+15 :   |  63debea1.jpeg : 2048-01-27
+16 :   |  6bba9c45.jpeg : 2039-07-18
+17 :   |  a7001ecc.jpeg : 2017-08-12
+18 :   |  df51a6f0.jpeg : NaN
+******** jun19'19 ****************
+exception occured at 9d315c3b.jpeg
+20 :   |  c4c67f2e.jpeg : 2019-05-20
+21 :   |  ae94e526.jpeg : 2019-12-06
+******** biryant 00 220 ****************
+exception occured at 31ad980e.jpeg
+23 :   |  b30773b0.jpeg : 2019-06-25
+24 :   |  349c23ef.jpeg : 2017-05-09
+exception occured at 1f6a12e7.jpeg
+******** sep07'18 ****************
+exception occured at df06b272.jpeg
+27 :   |  db0ced42.jpeg : NaN
+28 :   |  10e00c18.jpeg : 2019-08-06
+******** tukra 4.00 ****************
+exception occured at b57a5255.jpeg
+30 :   |  4fa1fc56.jpeg : 2018-09-25
+31 :   |  c7643735.jpeg : NaN
+32 :   |  c4580395.jpeg : NaN
+33 :   |  b0511c9e.jpeg : NaN
+34 :   |  55b59146.jpeg : NaN
+35 :   |  9b79f888.jpeg : 2019-05-06
+Premature end of JPEG file
+36 :   |  5c3075ae.jpeg : 2619-10-87
+37 :   |  0349ff40.jpeg : NaN
+38 :   |  4fdb8f6a.jpeg : 2019-05-16
+39 :   |  a55acac4.jpeg : 2019-05-31
+40 :   |  aa33ae61.jpeg : 2019-06-16
+41 :   |  32d10504.jpeg : 2019-08-07
+42 :   |  b2802844.jpeg : 2019-07-19
+43 :   |  e2080a18.jpeg : NaN
+44 :   |  996ad591.jpeg : NaN
+45 :   |  a1468725.jpeg : NaN
+46 :   |  d65531e1.jpeg : 2016-12-02
+47 :   |  4f692e69.jpeg : 2019-07-11
+48 :   |  fc6c8af2.jpeg : NaN
+49 :   |  04fa5e11.jpeg : NaN
+50 :   |  c2195ac8.jpeg : 2018-03-08
+51 :   |  38d9d542.jpeg : NaN
+******** cgst 51.81 ****************
+exception occured at 9f7dd143.jpeg
+53 :   |  f0f599e0.jpeg : 2019-04-17
+54 :   |  38863cee.jpeg : 2019-04-18
+55 :   |  15ce8549.jpeg : NaN
+56 :   |  25ee2c0d.jpeg : 2019-06-25
+57 :   |  6e6c8022.jpeg : 2019-06-20
+58 :   |  d2aaea28.jpeg : 2013-03-22
+59 :   |  88382c50.jpeg : 2013-07-16
+******** tax 8.30 ****************
+exception occured at 25f999dc.jpeg
+61 :   |  89f3c36a.jpeg : NaN
+62 :   |  75b7ef34.jpeg : 2019-04-08
+63 :   |  95ec3eab.jpeg : NaN
+64 :   |  7757f74b.jpeg : NaN
+65 :   |  603fdc0f.jpeg : NaN
+66 :   |  1ae93f0a.jpeg : 2019-07-20
+exception occured at 96de25e8.jpeg
+68 :   |  84dce936.jpeg : 2019-05-16
+******** salted
+
+5,29 ****************
+exception occured at 8b916b49.jpeg
+70 :   |  cb4b0752.jpeg : NaN
+71 :   |  c19fc15f.jpeg : NaN
+72 :   |  2590a66d.jpeg : 2019-06-14
+73 :   |  ccd6f8f5.jpeg : 2019-01-06
+74 :   |  2f36db66.jpeg : 2019-08-30
+75 :   |  2ef79975.jpeg : NaN
+76 :   |  c9e60c74.jpeg : 2017-11-24
+77 :   |  c78931cf.jpeg : 2019-02-07
+78 :   |  121a7302.jpeg : NaN
+79 :   |  d2373192.jpeg : 2019-02-05
+80 :   |  26ab5ac7.jpeg : 2025-24-25
+81 :   |  e226408d.jpeg : 2019-08-22
+82 :   |  42a54355.jpeg : NaN
+83 :   |  d426211c.jpeg : 2020-06-17
+84 :   |  52df6216.jpeg : 2019-07-63
+Corrupt JPEG data: premature end of data segment
+85 :   |  5bb556be.jpeg : NaN
+******** tine 04 47 ****************
+exception occured at 752bb04a.jpeg
+******** ofeb'19 21 ****************
+exception occured at faaf2ba1.jpeg
+88 :   |  91b2f85d.jpeg : NaN
+89 :   |  72b3b552.jpeg : NaN
+90 :   |  d543411c.jpeg : 2018-09-24
+91 :   |  8dc11f3b.jpeg : NaN
+92 :   |  9d042023.jpeg : NaN
+93 :   |  80b2a0d5.jpeg : NaN
+94 :   |  0cc46a10.jpeg : 2004-08-09
+95 :   |  fece09ba.jpeg : NaN
+96 :   |  f36b6c9d.jpeg : 2018-10-25
+97 :   |  62f15742.jpeg : 2015-03-07
+98 :   |  0e0dd005.jpeg : 2019-06-07
+99 :   |  9df19b67.jpeg : NaN
+100 :   |  375f34a9.jpeg : 2019-06-79
+101 :   |  774194f1.jpeg : NaN
+102 :   |  268027de.jpeg : 2019-01-07
+103 :   |  d5beec92.jpeg : NaN
+104 :   |  cd2e80f2.jpeg : 2016-12-19
+105 :   |  20888b5e.jpeg : NaN
+106 :   |  67784f13.jpeg : NaN
+******** iverytbox 20 20 ****************
+exception occured at 20aaa16a.jpeg
+108 :   |  194fc04c.jpeg : NaN
+109 :   |  316b49e7.jpeg : 2019-06-15
+110 :   |  bdc0019f.jpeg : NaN
+111 :   |  c478b53b.jpeg : NaN
+112 :   |  fc8e3dde.jpeg : 2019-11-01
+113 :   |  a190549c.jpeg : NaN
+114 :   |  e802d4e2.jpeg : 2019-06-27
+115 :   |  4934b499.jpeg : 2019-02-06
+116 :   |  f16efae4.jpeg : 201-06-29
+117 :   |  aeb91209.jpeg : NaN
+118 :   |  c8d5b927.jpeg : NaN
+119 :   |  c9c0da83.jpeg : 2019-06-17
+120 :   |  42c85ea9.jpeg : 2016-10-04
+121 :   |  4abb6285.jpeg : 2016-07-15
+122 :   |  d3df924c.jpeg : NaN
+123 :   |  7501533b.jpeg : 2013-05-18
+******** apr 01, 2019 ****************
+exception occured at e2ab7e79.jpeg
+125 :   |  bbe8febc.jpeg : 2019-06-15
+126 :   |  7ab07a7e.jpeg : NaN
+127 :   |  a44f4dd1.jpeg : 2013-06-20
+128 :   |  d717748c.jpeg : 2019-06-06
+129 :   |  a8d87938.jpeg : NaN
+130 :   |  c70f7dac.jpeg : 2019-03-06
+131 :   |  7c391a3a.jpeg : 2019-04-19
+132 :   |  4e7babf5.jpeg : 2019-07-05
+******** jun 24 20 ****************
+exception occured at 53c03235.jpeg
+134 :   |  cf964a62.jpeg : NaN
+135 :   |  522b71b7.jpeg : 2018-02-06
+******** delsonico 14 62 ****************
+exception occured at fb360175.jpeg
+137 :   |  5fb7995c.jpeg : 2019-06-24
+138 :   |  551883ef.jpeg : 2017-06-16
+139 :   |  beeb9566.jpeg : NaN
+140 :   |  74346a8f.jpeg : NaN
+141 :   |  73223a9f.jpeg : NaN
+142 :   |  5778a323.jpeg : NaN
+143 :   |  86c91cbd.jpeg : 2027-04-12
+144 :   |  dfed1676.jpeg : 2019-06-27
+******** ttl 11,00 ****************
+exception occured at 8e5f8da4.jpeg
+146 :   |  a72f96ca.jpeg : NaN
+147 :   |  b22e3c57.jpeg : 2019-06-06
+148 :   |  19aa65d3.jpeg : NaN
+149 :   |  eea737a6.jpeg : 2019-07-25
+******** asada 1.59 ****************
+exception occured at 7ecbd11f.jpeg
+******** agadddong31 610 ****************
+exception occured at 5b0d6748.jpeg
+******** chk 45 14 ****************
+exception occured at 946898a1.jpeg
+153 :   |  88c4cc0c.jpeg : NaN
+154 :   |  83c9db9a.jpeg : 2019-07-19
+155 :   |  dcd20d5a.jpeg : NaN
+156 :   |  f92fcd42.jpeg : NaN
+157 :   |  a17d8c2f.jpeg : 2019-06-19
+******** december 29 2018 ****************
+exception occured at cec4ecc5.jpeg
+159 :   |  de58dc3f.jpeg : 2018-09-19
+160 :   |  dbc70af6.jpeg : 2044-02-95
+161 :   |  4b8cfbf2.jpeg : NaN
+162 :   |  942e9fb6.jpeg : NaN
+163 :   |  cbd9ab5e.jpeg : 2006-09-05
+164 :   |  ac676281.jpeg : NaN
+165 :   |  406d482f.jpeg : NaN
+******** ons 11.494 ****************
+exception occured at cf7b1404.jpeg
+167 :   |  4754f9e3.jpeg : NaN
+168 :   |  deedf037.jpeg : NaN
+******** hibiscus 8.00 ****************
+exception occured at a3dbcdaa.jpeg
+170 :   |  8ae1cfcd.jpeg : 2017-06-26
+171 :   |  a1e35140.jpeg : 2019-06-16
+******** wate 3 50 ****************
+exception occured at c6f12b50.jpeg
+173 :   |  e3a528ad.jpeg : NaN
+174 :   |  e3cdeead.jpeg : 2019-05-13
+175 :   |  4982922a.jpeg : NaN
+176 :   |  4e4b0d9c.jpeg : 2019-05-06
+177 :   |  316d4f06.jpeg : NaN
+178 :   |  33fba310.jpeg : 2019-08-06
+179 :   |  718914cd.jpeg : NaN
+180 :   |  8d93ed14.jpeg : NaN
+******** sirloin 34.00 ****************
+exception occured at cec9988c.jpeg
+182 :   |  3e2e8c09.jpeg : 2019-10-07
+183 :   |  5753d0c6.jpeg : 2019-07-02
+184 :   |  704f4322.jpeg : 2017-10-09
+185 :   |  c2c2d4ba.jpeg : 2017-04-05
+186 :   |  be838c96.jpeg : 2019-05-27
+187 :   |  4dddf1eb.jpeg : 2019-86-87
+188 :   |  4f58927d.jpeg : 2016-11-05
+189 :   |  f2c1e641.jpeg : 2019-03-12
+190 :   |  5bd0d02d.jpeg : NaN
+191 :   |  2bdd2396.jpeg : NaN
+192 :   |  9dacc253.jpeg : 2019-06-26
+******** btotal 74.49 ****************
+exception occured at fb7fb9d7.jpeg
+194 :   |  ad2814be.jpeg : NaN
+195 :   |  3e3a4f77.jpeg : 2019-04-08
+196 :   |  d079725c.jpeg : 2019-06-24
+197 :   |  4d79fcf2.jpeg : 2019-07-05
+198 :   |  ed731156.jpeg : NaN
+199 :   |  1f9bdf4a.jpeg : 2019-06-06
+200 :   |  30501b83.jpeg : NaN
+201 :   |  89d9667c.jpeg : 2019-06-21
+202 :   |  f9034671.jpeg : NaN
+203 :   |  37176928.jpeg : 2019-07-12
+204 :   |  05f91a79.jpeg : 2901-07-96
+205 :   |  21e9cc19.jpeg : NaN
+206 :   |  9a137cc9.jpeg : 2019-07-21
+207 :   |  97ae705c.jpeg : NaN
+******** abo 3, 50 ****************
+exception occured at bac3fe9e.jpeg
+209 :   |  3e8b3fad.jpeg : 2019-08-07
+210 :   |  4175425f.jpeg : NaN
+211 :   |  90733c0d.jpeg : 2019-07-19
+212 :   |  417dc9c8.jpeg : 2019-02-02
+213 :   |  2c942f50.jpeg : 2019-06-29
+******** combo 6.79 ****************
+exception occured at e5235e8c.jpeg
+215 :   |  5d069db5.jpeg : 2019-07-12
+216 :   |  41879403.jpeg : 2019-06-96
+217 :   |  e6b0240b.jpeg : 2019-03-06
+218 :   |  4fef1c7e.jpeg : NaN
+219 :   |  c660b2f7.jpeg : NaN
+220 :   |  24847223.jpeg : 2019-06-28
+221 :   |  150d4dde.jpeg : NaN
+222 :   |  8f51d477.jpeg : 2019-06-13
+223 :   |  97802ad1.jpeg : 2018-08-02
+224 :   |  b06a246f.jpeg : 2018-02-13
+225 :   |  5afb1261.jpeg : NaN
+226 :   |  8a07a435.jpeg : NaN
+exception occured at f2de425f.jpeg
+******** tasurance 00.10 ****************
+exception occured at 44373191.jpeg
+******** tax 0.00 ****************
+exception occured at bf0ce2ba.jpeg
+******** san 28, 2010 ****************
+exception occured at a18a7997.jpeg
+231 :   |  e7a6f8bd.jpeg : NaN
+232 :   |  d37231f3.jpeg : 2019-01-01
+233 :   |  0156b46f.jpeg : 2019-07-25
+234 :   |  4da45cc9.jpeg : 2015-02-06
+235 :   |  bb958b7f.jpeg : NaN
+236 :   |  ec07892e.jpeg : NaN
+237 :   |  9ade947c.jpeg : NaN
+238 :   |  8c015834.jpeg : 2003-01-73
+239 :   |  7e979c6c.jpeg : 2018-10-03
+******** pau 2.00 ****************
+exception occured at d8601222.jpeg
+241 :   |  991302fd.jpeg : 2027-07-06
+242 :   |  a4aee2d5.jpeg : 2017-04-27
+243 :   |  cf332c79.jpeg : NaN
+******** cup 14.00 ****************
+exception occured at ff6b37aa.jpeg
+245 :   |  f41ce8c7.jpeg : NaN
+246 :   |  e5560cf1.jpeg : 2010-95-15
+247 :   |  71548d28.jpeg : 2019-07-17
+******** caesar 4.99 ****************
+exception occured at 997ba80b.jpeg
+249 :   |  e59fe62f.jpeg : 2019-06-24
+250 :   |  f980a8bc.jpeg : NaN
+251 :   |  2e12ae7f.jpeg : 2019-01-07
+252 :   |  1f880ba4.jpeg : NaN
+253 :   |  5d63f1a2.jpeg : 2019-07-16
+254 :   |  4b494298.jpeg : NaN
+******** chicken 63,00 ****************
+exception occured at f8d4578f.jpeg
+256 :   |  7276fcd8.jpeg : 2018-11-04
+257 :   |  826bb4b1.jpeg : 2019-06-27
+258 :   |  ae906bad.jpeg : 2019-11-02
+******** wwe 0
+35 ****************
+exception occured at 13dc4bd4.jpeg
+260 :   |  e4413fe0.jpeg : NaN
+261 :   |  643fab2f.jpeg : 2019-06-29
+262 :   |  6f542182.jpeg : 2019-07-18
+263 :   |  6dbdd84b.jpeg : 2008-06-19
+264 :   |  0eda160c.jpeg : 2019-06-28
+265 :   |  e890664c.jpeg : NaN
+266 :   |  f85a0139.jpeg : 2018-08-28
+267 :   |  a34336fd.jpeg : 2019-07-17
+268 :   |  3c73f675.jpeg : NaN
+269 :   |  e39a91cc.jpeg : 2019-06-27
+270 :   |  a8c6b02c.jpeg : NaN
+271 :   |  1d900ca2.jpeg : 2019-07-09
+272 :   |  eb3698c6.jpeg : NaN
+273 :   |  618ce259.jpeg : 2019-04-20
+******** subtotal 3.04 ****************
+exception occured at 699f83d9.jpeg
+exception occured at b517f1ae.jpeg
+276 :   |  36285989.jpeg : NaN
+******** subtotal 5.98 ****************
+exception occured at 6cb2b839.jpeg
+278 :   |  52b8d251.jpeg : 2019-06-23
+279 :   |  a9800e10.jpeg : NaN
+280 :   |  3e4e3b6a.jpeg : 2019-07-22
+281 :   |  5d80cb45.jpeg : 2019-07-16
+282 :   |  7e60a259.jpeg : 2019-05-29
+283 :   |  fb939620.jpeg : NaN
+284 :   |  b9130266.jpeg : 2019-04-17
+285 :   |  36e4ad81.jpeg : 2019-07-14
+******** diesel
+0.005 ****************
+exception occured at 9aff01ec.jpeg
+287 :   |  62b3d78b.jpeg : 2018-08-12
+288 :   |  037ef967.jpeg : NaN
+289 :   |  e6afefba.jpeg : NaN
+290 :   |  9fbebaaf.jpeg : 2016-10-04
+291 :   |  6878de95.jpeg : NaN
+292 :   |  a26adf55.jpeg : 2019-05-22
+******** bow 40.00 ****************
+exception occured at 2bbb8522.jpeg
+294 :   |  3055743f.jpeg : 2019-02-07
+295 :   |  8e5b620a.jpeg : 2013-03-16
+296 :   |  da2bf0dd.jpeg : NaN
+297 :   |  0c4672b4.jpeg : NaN
+298 :   |  1e3d07aa.jpeg : NaN
+299 :   |  da5e3696.jpeg : 2017-12-28
+******** tene 3.2701 ****************
+exception occured at 2d27a624.jpeg
+301 :   |  ce4ec734.jpeg : NaN
+302 :   |  adc1b1d1.jpeg : 2019-02-06
+303 :   |  3519f28b.jpeg : NaN
+304 :   |  deda5875.jpeg : 2017-08-21
+305 :   |  d022521e.jpeg : NaN
+******** sarah
+
+ 
+
+12
+
+10 ****************
+exception occured at b55eba8a.jpeg
+307 :   |  64bee512.jpeg : 2019-01-15
+308 :   |  e9a07f75.jpeg : 2019-07-16
+309 :   |  0b1664cb.jpeg : 2019-05-87
+******** volume 7.646 ****************
+exception occured at 8e7a99a9.jpeg
+311 :   |  e2ce8f5a.jpeg : 2018-01-07
+312 :   |  66e32579.jpeg : 2019-07-26
+313 :   |  c22e84bf.jpeg : 2019-07-06
+314 :   |  abcc056f.jpeg : 2019-06-22
+******** jun01'19 ****************
+exception occured at 223eba39.jpeg
+316 :   |  648a919d.jpeg : 2019-07-19
+******** say 16 2019 ****************
+exception occured at b199704c.jpeg
+318 :   |  1171a5da.jpeg : 2019-07-14
+******** june 16, 2019 ****************
+exception occured at 3bf18630.jpeg
+320 :   |  96844b6d.jpeg : 2019-06-15
+321 :   |  7c9e38ba.jpeg : NaN
+322 :   |  39e7c62a.jpeg : NaN
+323 :   |  72edc0a9.jpeg : 2018-06-09
+324 :   |  2de48561.jpeg : 2019-05-17
+325 :   |  c99a6da9.jpeg : NaN
+326 :   |  5c79316b.jpeg : NaN
+327 :   |  b31b7fba.jpeg : 2015-03-14
+328 :   |  fdaae374.jpeg : 2018-06-29
+329 :   |  e29e4aac.jpeg : NaN
+^Cexception occured at 5142a222.jpeg
+331 :   |  7b987291.jpeg : 2019-02-09
+332 :   |  4a9af216.jpeg : 2019-03-06
+333 :   |  e562fd32.jpeg : 2019-05-28
+334 :   |  15bb95a8.jpeg : 2019-07-08
+335 :   |  6bab0d7d.jpeg : 2019-06-17
+******** order 1
+
+019 ****************
+exception occured at 2edff68d.jpeg
+337 :   |  d310bd8c.jpeg : 2019-06-28
+338 :   |  a5952274.jpeg : NaN
+339 :   |  8600390d.jpeg : 2019-06-27
+340 :   |  379efbfc.jpeg : NaN
+341 :   |  0c60aa84.jpeg : 2019-06-28
+342 :   |  4ec4559a.jpeg : 2019-07-23
+******** discount 0.00 ****************
+exception occured at 904efee7.jpeg
+344 :   |  a8f7689b.jpeg : NaN
+345 :   |  9f100f6a.jpeg : 2020-05-19
+346 :   |  02d54805.jpeg : 2019-05-29
+347 :   |  8457a646.jpeg : 2018-07-13
+348 :   |  b3ed8ea1.jpeg : 2019-06-20
+349 :   |  58133e04.jpeg : 2019-03-06
+350 :   |  0358c6c3.jpeg : NaN
+351 :   |  1a9c056c.jpeg : 2019-06-27
+352 :   |  eed281d7.jpeg : 2017-10-06
+353 :   |  aa3640e5.jpeg : NaN
+******** jun 1, 2619 ****************
+exception occured at 1cd9dfed.jpeg
+355 :   |  b0ba1d29.jpeg : NaN
+356 :   |  d388a1e0.jpeg : NaN
+357 :   |  cc3853bf.jpeg : NaN
+358 :   |  96ccf006.jpeg : NaN
+359 :   |  c89d1fc8.jpeg : 2019-07-25
+******** tax 0.74 ****************
+exception occured at 74c2c549.jpeg
+361 :   |  8633fc48.jpeg : 2012-01-13
+362 :   |  3f2f44eb.jpeg : 2019-11-06
+363 :   |  cf78f2b0.jpeg : NaN
+364 :   |  1afb9648.jpeg : 2019-05-22
+365 :   |  376101f2.jpeg : NaN
+366 :   |  fb075aff.jpeg : 2013-01-06
+******** begs 17,00 ****************
+exception occured at 80247cd7.jpeg
+******** napa 90 .00 ****************
+exception occured at 02acce30.jpeg
+369 :   |  26738bde.jpeg : 2019-08-04
+370 :   |  4b1911d2.jpeg : 2018-11-05
+******** gelhi 1 156 ****************
+exception occured at d21be23d.jpeg
+372 :   |  1e288e8c.jpeg : NaN
+373 :   |  9585fb50.jpeg : NaN
+******** spin 4.45 ****************
+exception occured at 68c1c1de.jpeg
+******** sep28' 18 ****************
+exception occured at 6eef3a7f.jpeg
+376 :   |  c9d17f5f.jpeg : NaN
+377 :   |  43d7cd10.jpeg : 2017-10-07
+378 :   |  b21bee63.jpeg : NaN
+379 :   |  abf51544.jpeg : NaN
+380 :   |  ec8f6e40.jpeg : 2017-12-22
+******** chicken 1 605 ****************
+exception occured at 96e270fd.jpeg
+382 :   |  7d3d33d3.jpeg : NaN
+383 :   |  5f2e42d9.jpeg : NaN
+384 :   |  f29424af.jpeg : NaN
+385 :   |  7f892b9b.jpeg : NaN
+386 :   |  0308aae2.jpeg : NaN
+******** mobile 91 362 ****************
+exception occured at c89a5476.jpeg
+388 :   |  de279295.jpeg : 2019-06-24
+******** tst 68 09 ****************
+exception occured at e756ff2c.jpeg
+******** cheese 0,50 ****************
+exception occured at 318663fa.jpeg
+391 :   |  a5b617de.jpeg : NaN
+392 :   |  b666ee43.jpeg : NaN
+393 :   |  2ad1b322.jpeg : 2019-16-29
+394 :   |  cdac31b4.jpeg : NaN
+395 :   |  3cdec471.jpeg : NaN
+396 :   |  16929bef.jpeg : 2014-05-22
+397 :   |  80da81d4.jpeg : 2019-06-25
+398 :   |  208e94bb.jpeg : 2019-01-06
+399 :   |  049c8dfd.jpeg : NaN
+400 :   |  513a9167.jpeg : 2019-07-18
+401 :   |  4d207768.jpeg : NaN
+402 :   |  a1cdfdde.jpeg : 2019-06-06
+******** jan 25, 2018 ****************
+exception occured at 62611b46.jpeg
+404 :   |  d1512e12.jpeg : 2019-10-06
+405 :   |  6c447c78.jpeg : 2018-06-24
+******** due 0.00 ****************
+exception occured at e50fe5f9.jpeg
+407 :   |  64d55742.jpeg : NaN
+408 :   |  badf0c6e.jpeg : NaN
+409 :   |  8558b94e.jpeg : 2018-06-29
+******** red 10.75 ****************
+exception occured at 9d135554.jpeg
+411 :   |  8939f524.jpeg : 2017-09-27
+412 :   |  04887bab.jpeg : 7209-97-99
+413 :   |  758414d5.jpeg : NaN
+414 :   |  e1363e44.jpeg : NaN
+415 :   |  c7323e60.jpeg : NaN
+416 :   |  b1c64bac.jpeg : NaN
+******** koos 60.00 ****************
+exception occured at 69095b91.jpeg
+418 :   |  6e5b73db.jpeg : 2019-06-09
+419 :   |  6a6e2a14.jpeg : 2019-03-19
+******** oysters 19.00 ****************
+exception occured at 715d59e4.jpeg
+421 :   |  1191438d.jpeg : 2018-06-30
+******** gst 2.50 ****************
+exception occured at 265001bf.jpeg
+423 :   |  093304e6.jpeg : NaN
+424 :   |  89648cb6.jpeg : 2019-10-07
+425 :   |  65f3d160.jpeg : NaN
+426 :   |  4bdd80e2.jpeg : 2019-07-25
+427 :   |  cce28d60.jpeg : NaN
+428 :   |  792e12f9.jpeg : 2019-06-24
+429 :   |  4af6d4a7.jpeg : NaN
+430 :   |  c532025f.jpeg : NaN
+******** small 1.19 ****************
+exception occured at 7eb86b39.jpeg
+******** dip 15.99 ****************
+exception occured at 7ba45680.jpeg
+433 :   |  df00dff6.jpeg : 2019-07-16
+434 :   |  fb835913.jpeg : 2006-09-05
+435 :   |  4883a482.jpeg : 2019-09-03
+436 :   |  b5e8f967.jpeg : NaN
+437 :   |  a47ae875.jpeg : 2017-12-05
+438 :   |  ff2f420c.jpeg : NaN
+439 :   |  899d661a.jpeg : 2019-06-15
+440 :   |  94c84d39.jpeg : 2017-02-18
+******** opk 2.99 ****************
+exception occured at 25635faa.jpeg
+442 :   |  156e0f63.jpeg : 2019-05-19
+******** aug23'19 ****************
+exception occured at 5e43dac3.jpeg
+444 :   |  745b1998.jpeg : 2019-05-17
+445 :   |  43d4608f.jpeg : 2019-05-13
+446 :   |  fecc3c48.jpeg : 2012-12-09
+447 :   |  afa578d9.jpeg : NaN
+448 :   |  d464ba5d.jpeg : 2019-05-27
+449 :   |  b8c01c17.jpeg : NaN
+450 :   |  0728f702.jpeg : NaN
+451 :   |  317fb684.jpeg : NaN
+452 :   |  c6b7675c.jpeg : NaN
+453 :   |  558a9aa9.jpeg : 2017-12-31
+454 :   |  d1796a85.jpeg : NaN
+455 :   |  86ed0984.jpeg : 2019-06-22
+456 :   |  f2e9be84.jpeg : 2019-05-22
+457 :   |  e737307f.jpeg : 2019-06-26
+458 :   |  3530e6d1.jpeg : 2019-25-67
+459 :   |  b8c35020.jpeg : NaN
+460 :   |  710e2d39.jpeg : 2018-04-13
+461 :   |  0daa6a1c.jpeg : 2019-12-07
+462 :   |  2b4713c8.jpeg : NaN
+******** bit 1 26 ****************
+exception occured at 9081eb41.jpeg
+464 :   |  c5264903.jpeg : NaN
+465 :   |  40e86c08.jpeg : 2019-05-04
+******** jan 24,2019 ****************
+exception occured at d48e2bc0.jpeg
+467 :   |  077124e4.jpeg : NaN
+468 :   |  c87ae05e.jpeg : NaN
+469 :   |  0406cfb1.jpeg : 2019-07-17
+470 :   |  5c670322.jpeg : NaN
+******** water 0.00 ****************
+exception occured at 651f5503.jpeg
+472 :   |  ffe2a9a0.jpeg : NaN
+473 :   |  f484b2e9.jpeg : 2019-06-24
+474 :   |  ee13198f.jpeg : 2019-08-07
+******** dip
+12.00 ****************
+exception occured at 43edeb2e.jpeg
+476 :   |  2c500858.jpeg : 2016-05-26
+******** apr07' 16 ****************
+exception occured at ec5f70cb.jpeg
+478 :   |  3bfa05ad.jpeg : 2018-09-25
+******** meal 5.99 ****************
+exception occured at 9bf563ad.jpeg
+480 :   |  5dca8c72.jpeg : NaN
+481 :   |  f119f71a.jpeg : 2015-08-30
+482 :   |  8290ec25.jpeg : 2018-01-11
+483 :   |  b8cc912d.jpeg : NaN
+******** tak 2 698 ****************
+exception occured at a3dd3ffb.jpeg
+485 :   |  2fdd6a08.jpeg : 2019-04-06
+******** soda 10.43 ****************
+exception occured at 96a5541a.jpeg
+487 :   |  ddddaf89.jpeg : 2019-01-06
+488 :   |  d330054e.jpeg : 2019-05-28
+******** mbu8 558 ****************
+exception occured at 70b0dba1.jpeg
+******** cht 1 11 ****************
+exception occured at f963b6ca.jpeg
+491 :   |  637456ba.jpeg : NaN
+492 :   |  31761796.jpeg : 2019-07-02
+493 :   |  f9aa53c2.jpeg : NaN
+******** coke 2.50 ****************
+exception occured at 105e97c5.jpeg
+495 :   |  e8dfe984.jpeg : 2019-06-18
+496 :   |  f78e114d.jpeg : NaN
+******** tax 1.83 ****************
+exception occured at e16297a7.jpeg
+498 :   |  557dc266.jpeg : NaN
+499 :   |  9ae2c1aa.jpeg : 2019-11-07
+500 :   |  28fe14e7.jpeg : NaN
+501 :   |  d119364e.jpeg : 2019-05-06
+******** reg 20,465 ****************
+exception occured at 13531d03.jpeg
+503 :   |  956be7eb.jpeg : 2019-11-06
+504 :   |  d1a20345.jpeg : 2016-12-03
+505 :   |  8e16764a.jpeg : NaN
+506 :   |  82aed0de.jpeg : NaN
+507 :   |  fae4ae81.jpeg : 2019-05-17
+508 :   |  3bce4b60.jpeg : NaN
+******** paid 19.30 ****************
+exception occured at 32b4d880.jpeg
+510 :   |  b7c49556.jpeg : 2019-03-07
+511 :   |  e1540843.jpeg : NaN
+512 :   |  57c7c0a6.jpeg : NaN
+513 :   |  2b577c41.jpeg : 2019-03-02
+514 :   |  3331e5f3.jpeg : NaN
+515 :   |  3deff9fb.jpeg : 2019-05-31
+516 :   |  804c5522.jpeg : NaN
+517 :   |  88e28b23.jpeg : 2019-07-18
+518 :   |  0efaa622.jpeg : 2019-04-30
+519 :   |  5b6ee5a0.jpeg : 201-12-29
+520 :   |  693a7582.jpeg : NaN
+******** sprouts 6.50 ****************
+exception occured at 6d53e280.jpeg
+******** total
+
+7,99 ****************
+exception occured at d50224be.jpeg
+523 :   |  ec1853b1.jpeg : 2018-07-21
+******** apr 10, 2019 ****************
+exception occured at fc4ea984.jpeg
+525 :   |  3d06f10e.jpeg : 2019-83-25
+526 :   |  c69d5a43.jpeg : NaN
+527 :   |  5cb08cab.jpeg : NaN
+******** sep 29, 2018 ****************
+exception occured at 01a0cabb.jpeg
+529 :   |  73313aba.jpeg : NaN
+530 :   |  81c972d3.jpeg : 2019-02-19
+531 :   |  da1bf674.jpeg : NaN
+532 :   |  1f2e0222.jpeg : 2018-10-20
+533 :   |  c43f882f.jpeg : NaN
+534 :   |  01048818.jpeg : NaN
+535 :   |  912ad2e1.jpeg : 2019-06-18
+536 :   |  ca7a837e.jpeg : NaN
+537 :   |  b0d5d8c5.jpeg : 2010-06-03
+******** subtotal 6.64 ****************
+exception occured at abd76c4b.jpeg
+539 :   |  aba42498.jpeg : 2017-07-01
+540 :   |  57c169de.jpeg : NaN
+******** tax 0,00 ****************
+exception occured at 82953a03.jpeg
+******** chsbleu 13.95 ****************
+exception occured at 18e9efcf.jpeg
+543 :   |  8651523e.jpeg : NaN
+544 :   |  5c2b38f0.jpeg : NaN
+545 :   |  ecb4f350.jpeg : 2018-12-91
+546 :   |  46ca4063.jpeg : NaN
+547 :   |  5ff14463.jpeg : NaN
+548 :   |  988159af.jpeg : NaN
+549 :   |  55291d91.jpeg : 2019-06-12
+550 :   |  e093c331.jpeg : 2019-06-23
+******** jun19'19 ****************
+exception occured at 148ebe90.jpeg
+552 :   |  d24165d5.jpeg : 4700-11-84
+553 :   |  f74ffded.jpeg : NaN
+******** otal 10.50 ****************
+exception occured at 982b02cf.jpeg
+555 :   |  02f4068e.jpeg : 2019-07-03
+556 :   |  9fc011f7.jpeg : NaN
+557 :   |  c9afb011.jpeg : NaN
+558 :   |  8930e861.jpeg : NaN
+559 :   |  ff8e6691.jpeg : NaN
+******** noodles 1 155 ****************
+exception occured at 0cdf6ec0.jpeg
+561 :   |  a1ea8555.jpeg : NaN
+562 :   |  e145bcc7.jpeg : NaN
+563 :   |  bd30660c.jpeg : 2017-12-17
+564 :   |  d406bbbf.jpeg : NaN
+565 :   |  d1c36f6e.jpeg : 2015-01-08
+566 :   |  332c05ec.jpeg : NaN
+567 :   |  212ab88f.jpeg : 2004-07-19
+568 :   |  aff8e5ab.jpeg : 2018-01-23
+569 :   |  13b63796.jpeg : 2016-11-24
+570 :   |  1ed34833.jpeg : NaN
+571 :   |  78bce3b1.jpeg : NaN
+******** food 22.00 ****************
+exception occured at 2b931f74.jpeg
+573 :   |  1b0a9723.jpeg : 2019-07-19
+574 :   |  5ca33654.jpeg : 2019-04-26
+575 :   |  de847c7f.jpeg : NaN
+576 :   |  da0978f5.jpeg : NaN
+577 :   |  d044bade.jpeg : NaN
+578 :   |  a2ce1b5e.jpeg : NaN
+579 :   |  70edf5c1.jpeg : NaN
+580 :   |  75351233.jpeg : NaN
+581 :   |  9219d71b.jpeg : 2019-07-19
+582 :   |  7383041e.jpeg : 2019-06-06
+******** staurant
+
+22.03 ****************
+exception occured at e7205cbe.jpeg
+******** frow 2.50 ****************
+exception occured at 04f988a3.jpeg
+585 :   |  9a8e24a1.jpeg : NaN
+586 :   |  9966a3ad.jpeg : NaN
+587 :   |  365c3104.jpeg : 2019-06-10
+588 :   |  8185e1b8.jpeg : NaN
+589 :   |  fe41933a.jpeg : NaN
+590 :   |  068ea6e6.jpeg : NaN
+******** cmb 8.28 ****************
+exception occured at ad742eb5.jpeg
+592 :   |  0a0ebd53.jpeg : NaN
+******** dul 1, 2019 ****************
+exception occured at db5b86d1.jpeg
+594 :   |  f23085d1.jpeg : 2019-02-28
+*******ALLLLLLLLLL DONEEEEEE********************

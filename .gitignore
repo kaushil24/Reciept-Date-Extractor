@@ -1,5 +1,8 @@
+*.pyc
+*.ipynb_checkpoints
 *.jpeg
 DEST_DIR
 .vscode
 .~lock.meta data.xlsx#
+*.__pycache__
 __pycache__

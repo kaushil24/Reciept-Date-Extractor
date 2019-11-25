@@ -6,16 +6,16 @@ import numpy as np
 
 class TesseractTxtExtractor():
 
-    def extractTxt(self,imgNme = '', imgMtx = ''):
+    def extractTxt(self, imgMtx = '', imgNme = ''):
         loc = os.path.join("Sample Dataset", "Receipts")
         
         if imgNme:
             loc = os.path.join("Sample Dataset", "Receipts")
-            st = ptr.image_to_string(os.path.join(loc, imgNme))
+            st = ptr.image_to_string(os.path.join(loc, imgNme), config="--psm 6")
             return st
         
-        elif imgMtx:
-            st = ptr.image_to_string(imgMtx)
+        elif len(imgMtx):
+            st = ptr.image_to_string(imgMtx) #, config="--oem 1")
             return st
 
         else:
@@ -24,5 +24,5 @@ class TesseractTxtExtractor():
 if __name__=="__main__":
 
     tx = TesseractTxtExtractor()
-    st = tx.extractTxt("1ae93f0a.jpeg")
+    st = tx.extractTxt(imgNme="04fa5e11.jpeg")
     print(st)
