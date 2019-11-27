@@ -2,6 +2,7 @@ import textExt as te
 from PIL import Image
 import re
 import dateparser
+from autocorrect import Speller
 
 # op = tx.extractTxt(tx, "1ae93f0a.jpeg")
 # op = extr.extractTxt("")
@@ -27,7 +28,7 @@ class dateExtractor():
         self.date = ''
         self.mnths = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
         self.months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
-        
+
         
         # To check for Jan 8, 2019 etc..
         contentSet = set(content.lower().split()) #.replace("'", ' ').replace(",", " ").replace(""))
@@ -90,7 +91,8 @@ class dateExtractor():
             # d = re.sub(r"^[a-z]", "", temp[-5:-3])
             # m = str(self.mnths.index(temp[:3])+1)
             # y = temp[-2:]
-            
+            speller = Speller(lang="en")
+            temp = speller(temp)
             m = re.findall(r"^[a-z]{3}", temp)[0]
             print(m)
 
@@ -115,7 +117,7 @@ if __name__ == "__main__":
     # f = open("./Scripts/sampleText.txt", "r")
     # st = f.read()
     textext = te.TesseractTxtExtractor()
-    st = textext.extractTxt(imgNme="04fa5e11.jpeg")
+    st = textext.extractTxt(imgNme="02acce30.jpeg")
     print(st)
     dx = dateExtractor()
     date = dx.extractDate(st) 

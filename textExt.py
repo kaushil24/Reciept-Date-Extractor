@@ -11,7 +11,7 @@ class TesseractTxtExtractor():
         
         if imgNme:
             loc = os.path.join("Sample Dataset", "Receipts")
-            st = ptr.image_to_string(os.path.join(loc, imgNme), config="--psm 6")
+            st = ptr.image_to_string(os.path.join(loc, imgNme)) #, config="--psm 6")
             return st
         
         elif len(imgMtx):
