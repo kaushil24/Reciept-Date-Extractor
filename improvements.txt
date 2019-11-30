@@ -1,4 +1,0 @@
-Things to modify: 
-1. Improve the function searching dates like Jan 28, 2010 etc.
-	Check the re for input "latter nc 2 795" on 4f692e69.jpeg image.
-

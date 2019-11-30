@@ -54,7 +54,8 @@ def full_Evaluation():
             mtx = pp.binary(mtx)
             mtx = pp.rescale(mtx)
             # thr = pp.contrast(binr)
-            
+            mtx = pp.dilate(mtx)
+            mtx = pp.erod (mtx)
             # mtx = pp.contrast(mtx)
             content = tx.extractTxt(mtx)
             date = dx.extractDate(content)
@@ -69,7 +70,7 @@ def full_Evaluation():
     print("*******ALLLLLLLLLL DONEEEEEE********************")
 
     df = pd.DataFrame(output)
-    df.to_csv("Results/5 - UpScale/Normal Output.csv")
+    df.to_csv("Results/6-Upscale-Dilate-Erode/Normal Output.csv")
 
 
 if __name__ == "__main__":
