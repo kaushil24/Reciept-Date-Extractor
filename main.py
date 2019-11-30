@@ -5,7 +5,7 @@ import pandas as pd
 import os 
 from PIL import Image
 import cv2 as cv
-from receiptScanner import crnn_processor
+# from receiptScanner import crnn_processor
 
 
 def full_Evaluation_crnn():
@@ -17,6 +17,8 @@ def full_Evaluation_crnn():
 
     for i, img in enumerate(imgs):
         try:
+
+            mtx = cv.imread(os.path.join(loc, img))
             txt = crnn_processor.process_img(img)
             date = dx.extractDate(txt)
             output.append([img, date])
@@ -30,7 +32,7 @@ def full_Evaluation_crnn():
     print("*******ALLLLLLLLLL DONEEEEEE********************")
 
     df = pd.DataFrame(output)
-    df.to_csv("Results/4 - CRNN Model/Normal Output.csv")
+    df.to_csv("Results/4 - PreProc/Normal Output.csv")
 
 
 
@@ -49,40 +51,50 @@ def full_Evaluation():
     for i,img in enumerate(imgs):
         try: 
             mtx = cv.imread(os.path.join(loc, img))
+            mtx = pp.binary(mtx)
+            mtx = pp.rescale(mtx)
+            # thr = pp.contrast(binr)
+            
             # mtx = pp.contrast(mtx)
             content = tx.extractTxt(mtx)
             date = dx.extractDate(content)
             output.append([img, date])
             print(i, ":   | ",img, ":", date)
 
-        except:
+        except Exception as e:
             print("exception occured at", img)
+            print(e)
             continue
 
     print("*******ALLLLLLLLLL DONEEEEEE********************")
 
     df = pd.DataFrame(output)
-    df.to_csv("Results/3 - auto corr in dateExt/Normal Output.csv")
+    df.to_csv("Results/5 - UpScale/Normal Output.csv")
 
 
 if __name__ == "__main__":
 
-
-    full_Evaluation_crnn()
+    full_Evaluation()
+    # full_Evaluation_crnn()
 #     pp = preProcessor()
 #     tx = TesseractTxtExtractor()
 #     dx = dateExtractor()
 #     loc = os.path.join("Sample Dataset", "Receipts")
-#     imgs  = ["2ef79975.jpeg", "04fa5e11.jpeg"]
+#     imgs  = ["5f2e42d9.jpeg"] #, "04fa5e11.jpeg"]
 
 #     output = []
 #     for i,img in enumerate(imgs):
         
-#         mtx = cv.imread(os.path.join(loc, img), 0)
+#         mtx = cv.imread(os.path.join(loc, img))
 #         cv.imshow("Normal", mtx)
-#         # mtx = pp.contrast(mtx)
-#         cv.imshow("Contrast", mtx)
-#         content = tx.extractTxt(mtx)
+#         imgX = pp.rescale(mtx)
+#         imgX = pp.binary(imgX)
+#         imgX = pp.contrast(imgX)
+#         imgX = pp.dilate_erode(imgX)
+        
+#         cv.imshow("Contrast", imgX)
+#         content = tx.extractTxt(imgX)
+#         print(content)
 #         date = dx.extractDate(content)
 #         output.append([img, date])
 #         print(i, ":   | ",img, ":", date)
