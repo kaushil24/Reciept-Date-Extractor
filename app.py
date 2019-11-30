@@ -18,21 +18,6 @@ dx = dateExtractor()
 @app.route("/extract_date", methods=['GET','POST'])
 def index():
     if request.method == "POST":
-<<<<<<< HEAD
-        r = request
-        # if r.method=="POST":
-        image_64_decode = base64.decodestring(r.data)
-        image_result = open('recieved_img.jpeg', 'wb')
-        image_result.write(image_64_decode)
-        mtx = cv.imread('recieved_img.jpeg')
-        mtx = pp.rescale(mtx)
-        content = tx.extractTxt(mtx)
-        date = dx.extractDate(content)
-        response = {'date' : date }
-        # encode response using jsonpickle
-        response_pickled = jsonpickle.encode(response)
-        
-=======
         try:
 
             r = request
@@ -41,6 +26,7 @@ def index():
             image_result = open('recieved_img.jpeg', 'wb')
             image_result.write(image_64_decode)
             mtx = cv.imread('recieved_img.jpeg')
+            mtx = pp.rescale(mtx)
             content = tx.extractTxt(mtx)
             date = dx.extractDate(content)
             response = {'date' : date }
@@ -51,7 +37,6 @@ def index():
             response = {'date': 'null'}
             response_pickled = jsonpickle.encode(response)
             return Response(response=response_pickled, status=200, mimetype="application/json")    
->>>>>>> 4e880f0a360fcd4be8321ef28c09990ecb9c696e
         # print(r.data)
         
     elif request.method=="GET":
