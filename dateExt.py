@@ -48,7 +48,6 @@ class dateExtractor():
                 temp_year = ''.join(content.lower().split()[idx+2:idx+5])
             year = re.findall(r"\d{2,4}", temp_year)[0]
             return self.formatMaker(date, mnt, year)
-
         elif common1:
             print(common1)
             x = ''.join(common1)
@@ -98,7 +97,7 @@ class dateExtractor():
 
             d = list(map((lambda x: x[1:-1]), re.findall(r"[\D]\d{1,2}[\D]", temp)))[0]
             if m not in self.mnths:
-                return "NaN"
+                return 'null'
             else:
                 m = self.mnths.index(m)+1
                 y = temp[-2:] 
@@ -108,7 +107,7 @@ class dateExtractor():
            # d = re.find("\s\d{1,2}")
 
         else:
-            return "NaN"
+            return "null"
 
 
 if __name__ == "__main__":
@@ -117,7 +116,7 @@ if __name__ == "__main__":
     # f = open("./Scripts/sampleText.txt", "r")
     # st = f.read()
     textext = te.TesseractTxtExtractor()
-    st = textext.extractTxt(imgNme="02acce30.jpeg")
+    st = textext.extractTxt(imgNme="b0ba1d29.jpeg")
     print(st)
     dx = dateExtractor()
     date = dx.extractDate(st) 

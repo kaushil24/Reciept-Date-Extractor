@@ -1,0 +1,734 @@
+0 :   |  9347d5f7.jpeg : 2016-07-12
+1 :   |  459b00d4.jpeg : NaN
+2 :   |  0a8a955f.jpeg : NaN
+{'feb'}
+3 :   |  9f6518d2.jpeg : 2019-02-24
+4 :   |  fc4067f4.jpeg : 2019-06-25
+5 :   |  9aca41c9.jpeg : 2019-01-05
+6 :   |  c1c6a9fa.jpeg : 2018-12-28
+7 :   |  fb5af2cc.jpeg : 2019-04-28
+8 :   |  d7ddc370.jpeg : NaN
+9 :   |  6a42604c.jpeg : 2008-07-16
+{'jun'}
+10 :   |  eb1818b7.jpeg : 9984-06-2019
+{'april', 'january'}
+exception occured at 939492cb.jpeg
+12 :   |  e968011e.jpeg : NaN
+13 :   |  d02db5bc.jpeg : 2019-06-17
+14 :   |  102dd660.jpeg : 2013-07-25
+15 :   |  63debea1.jpeg : 2048-01-27
+16 :   |  6bba9c45.jpeg : 2039-07-18
+17 :   |  a7001ecc.jpeg : 2017-08-12
+18 :   |  df51a6f0.jpeg : NaN
+******** jun19'19 ****************
+jun
+19 :   |  9d315c3b.jpeg : 2019-06-19
+20 :   |  c4c67f2e.jpeg : 2019-05-20
+21 :   |  ae94e526.jpeg : 2019-12-06
+******** biryant 00 220 ****************
+bir
+22 :   |  31ad980e.jpeg : NaN
+{'jan'}
+23 :   |  b30773b0.jpeg : 403-01-bhuia
+24 :   |  349c23ef.jpeg : 2017-05-09
+25 :   |  1f6a12e7.jpeg : 2018-02-17
+******** sep07'18 ****************
+sep
+26 :   |  df06b272.jpeg : 2018-09-07
+27 :   |  db0ced42.jpeg : NaN
+28 :   |  10e00c18.jpeg : 2019-08-06
+29 :   |  b57a5255.jpeg : NaN
+30 :   |  4fa1fc56.jpeg : 2018-09-25
+31 :   |  c7643735.jpeg : NaN
+32 :   |  c4580395.jpeg : NaN
+33 :   |  b0511c9e.jpeg : NaN
+34 :   |  55b59146.jpeg : NaN
+35 :   |  9b79f888.jpeg : 2019-05-06
+Premature end of JPEG file
+36 :   |  5c3075ae.jpeg : 2619-10-87
+37 :   |  0349ff40.jpeg : NaN
+38 :   |  4fdb8f6a.jpeg : 2019-05-16
+39 :   |  a55acac4.jpeg : 2019-05-31
+40 :   |  aa33ae61.jpeg : 2019-06-16
+41 :   |  32d10504.jpeg : 2019-08-07
+42 :   |  b2802844.jpeg : 2019-07-19
+43 :   |  e2080a18.jpeg : NaN
+44 :   |  996ad591.jpeg : NaN
+45 :   |  a1468725.jpeg : NaN
+46 :   |  d65531e1.jpeg : 2016-12-02
+47 :   |  4f692e69.jpeg : 2019-07-11
+48 :   |  fc6c8af2.jpeg : NaN
+49 :   |  04fa5e11.jpeg : NaN
+50 :   |  c2195ac8.jpeg : 2018-03-08
+51 :   |  38d9d542.jpeg : NaN
+******** sgst 2 5481 ****************
+sgs
+52 :   |  9f7dd143.jpeg : NaN
+53 :   |  f0f599e0.jpeg : 2019-04-17
+54 :   |  38863cee.jpeg : 2019-04-18
+55 :   |  15ce8549.jpeg : NaN
+56 :   |  25ee2c0d.jpeg : 2019-06-25
+57 :   |  6e6c8022.jpeg : 2019-06-20
+58 :   |  d2aaea28.jpeg : 2013-03-22
+59 :   |  88382c50.jpeg : 2013-07-16
+60 :   |  25f999dc.jpeg : NaN
+61 :   |  89f3c36a.jpeg : NaN
+62 :   |  75b7ef34.jpeg : 2019-04-08
+63 :   |  95ec3eab.jpeg : NaN
+64 :   |  7757f74b.jpeg : NaN
+65 :   |  603fdc0f.jpeg : NaN
+66 :   |  1ae93f0a.jpeg : 2019-07-20
+exception occured at 96de25e8.jpeg
+68 :   |  84dce936.jpeg : 2019-05-16
+******** salted
+
+5,29 ****************
+sal
+69 :   |  8b916b49.jpeg : NaN
+70 :   |  cb4b0752.jpeg : NaN
+71 :   |  c19fc15f.jpeg : NaN
+72 :   |  2590a66d.jpeg : 2019-06-14
+73 :   |  ccd6f8f5.jpeg : 2019-01-06
+74 :   |  2f36db66.jpeg : 2019-08-30
+75 :   |  2ef79975.jpeg : NaN
+76 :   |  c9e60c74.jpeg : 2017-11-24
+77 :   |  c78931cf.jpeg : 2019-02-07
+78 :   |  121a7302.jpeg : NaN
+79 :   |  d2373192.jpeg : 2019-02-05
+80 :   |  26ab5ac7.jpeg : 2025-24-25
+81 :   |  e226408d.jpeg : 2019-08-22
+82 :   |  42a54355.jpeg : NaN
+83 :   |  d426211c.jpeg : 2020-06-17
+84 :   |  52df6216.jpeg : 2019-07-63
+Corrupt JPEG data: premature end of data segment
+85 :   |  5bb556be.jpeg : NaN
+******** tine 04 47 ****************
+jun
+86 :   |  752bb04a.jpeg : 2047-06-04
+87 :   |  faaf2ba1.jpeg : NaN
+88 :   |  91b2f85d.jpeg : NaN
+89 :   |  72b3b552.jpeg : NaN
+90 :   |  d543411c.jpeg : 2018-09-24
+91 :   |  8dc11f3b.jpeg : NaN
+92 :   |  9d042023.jpeg : NaN
+93 :   |  80b2a0d5.jpeg : NaN
+94 :   |  0cc46a10.jpeg : 2004-08-09
+95 :   |  fece09ba.jpeg : NaN
+96 :   |  f36b6c9d.jpeg : 2018-10-25
+97 :   |  62f15742.jpeg : 2015-03-07
+98 :   |  0e0dd005.jpeg : 2019-06-07
+99 :   |  9df19b67.jpeg : NaN
+100 :   |  375f34a9.jpeg : 2019-06-79
+101 :   |  774194f1.jpeg : NaN
+102 :   |  268027de.jpeg : 2019-01-07
+103 :   |  d5beec92.jpeg : NaN
+104 :   |  cd2e80f2.jpeg : 2016-12-19
+105 :   |  20888b5e.jpeg : NaN
+106 :   |  67784f13.jpeg : NaN
+******** iverytbox 20 20 ****************
+ive
+107 :   |  20aaa16a.jpeg : NaN
+108 :   |  194fc04c.jpeg : NaN
+109 :   |  316b49e7.jpeg : 2019-06-15
+110 :   |  bdc0019f.jpeg : NaN
+111 :   |  c478b53b.jpeg : NaN
+112 :   |  fc8e3dde.jpeg : 2019-11-01
+113 :   |  a190549c.jpeg : NaN
+114 :   |  e802d4e2.jpeg : 2019-06-27
+115 :   |  4934b499.jpeg : 2019-02-06
+116 :   |  f16efae4.jpeg : 201-06-29
+117 :   |  aeb91209.jpeg : NaN
+118 :   |  c8d5b927.jpeg : NaN
+119 :   |  c9c0da83.jpeg : 2019-06-17
+120 :   |  42c85ea9.jpeg : 2016-10-04
+121 :   |  4abb6285.jpeg : 2016-07-15
+122 :   |  d3df924c.jpeg : NaN
+123 :   |  7501533b.jpeg : 2013-05-18
+{'apr'}
+124 :   |  e2ab7e79.jpeg : 2019-04-01
+125 :   |  bbe8febc.jpeg : 2019-06-15
+126 :   |  7ab07a7e.jpeg : NaN
+127 :   |  a44f4dd1.jpeg : 2013-06-20
+128 :   |  d717748c.jpeg : 2019-06-06
+129 :   |  a8d87938.jpeg : NaN
+130 :   |  c70f7dac.jpeg : 2019-03-06
+131 :   |  7c391a3a.jpeg : 2019-04-19
+132 :   |  4e7babf5.jpeg : 2019-07-05
+{'jun'}
+133 :   |  53c03235.jpeg : 2020-06-24
+134 :   |  cf964a62.jpeg : NaN
+135 :   |  522b71b7.jpeg : 2018-02-06
+******** delsonico 14 62 ****************
+del
+136 :   |  fb360175.jpeg : NaN
+137 :   |  5fb7995c.jpeg : 2019-06-24
+138 :   |  551883ef.jpeg : 2017-06-16
+139 :   |  beeb9566.jpeg : NaN
+140 :   |  74346a8f.jpeg : NaN
+141 :   |  73223a9f.jpeg : NaN
+142 :   |  5778a323.jpeg : NaN
+143 :   |  86c91cbd.jpeg : 2027-04-12
+144 :   |  dfed1676.jpeg : 2019-06-27
+******** ttl 11,00 ****************
+jul
+145 :   |  8e5f8da4.jpeg : 2000-07-11
+146 :   |  a72f96ca.jpeg : NaN
+147 :   |  b22e3c57.jpeg : 2019-06-06
+148 :   |  19aa65d3.jpeg : NaN
+149 :   |  eea737a6.jpeg : 2019-07-25
+******** asada 4,89 ****************
+asa
+150 :   |  7ecbd11f.jpeg : NaN
+******** agadddong31 610 ****************
+aga
+151 :   |  5b0d6748.jpeg : NaN
+******** chk 45 14 ****************
+chk
+152 :   |  946898a1.jpeg : NaN
+153 :   |  88c4cc0c.jpeg : NaN
+154 :   |  83c9db9a.jpeg : 2019-07-19
+155 :   |  dcd20d5a.jpeg : NaN
+156 :   |  f92fcd42.jpeg : NaN
+157 :   |  a17d8c2f.jpeg : 2019-06-19
+{'december'}
+158 :   |  cec4ecc5.jpeg : 2018-12-29
+159 :   |  de58dc3f.jpeg : 2018-09-19
+160 :   |  dbc70af6.jpeg : 2044-02-95
+161 :   |  4b8cfbf2.jpeg : NaN
+162 :   |  942e9fb6.jpeg : NaN
+163 :   |  cbd9ab5e.jpeg : 2006-09-05
+164 :   |  ac676281.jpeg : NaN
+165 :   |  406d482f.jpeg : NaN
+166 :   |  cf7b1404.jpeg : NaN
+167 :   |  4754f9e3.jpeg : NaN
+168 :   |  deedf037.jpeg : NaN
+{'mar'}
+169 :   |  a3dbcdaa.jpeg : 1105-03-yauatcha
+170 :   |  8ae1cfcd.jpeg : 2017-06-26
+171 :   |  a1e35140.jpeg : 2019-06-16
+******** wate 3 50 ****************
+wat
+172 :   |  c6f12b50.jpeg : NaN
+exception occured at .ipynb_checkpoints
+174 :   |  e3a528ad.jpeg : NaN
+175 :   |  e3cdeead.jpeg : 2019-05-13
+176 :   |  4982922a.jpeg : NaN
+177 :   |  4e4b0d9c.jpeg : 2019-05-06
+178 :   |  316d4f06.jpeg : NaN
+179 :   |  33fba310.jpeg : 2019-08-06
+180 :   |  718914cd.jpeg : NaN
+181 :   |  8d93ed14.jpeg : NaN
+182 :   |  cec9988c.jpeg : NaN
+183 :   |  3e2e8c09.jpeg : 2019-10-07
+184 :   |  5753d0c6.jpeg : 2019-07-02
+185 :   |  704f4322.jpeg : 2017-10-09
+186 :   |  c2c2d4ba.jpeg : 2017-04-05
+187 :   |  be838c96.jpeg : 2019-05-27
+188 :   |  4dddf1eb.jpeg : 2019-86-87
+189 :   |  4f58927d.jpeg : 2016-11-05
+190 :   |  f2c1e641.jpeg : 2019-03-12
+191 :   |  5bd0d02d.jpeg : NaN
+192 :   |  2bdd2396.jpeg : NaN
+193 :   |  9dacc253.jpeg : 2019-06-26
+194 :   |  fb7fb9d7.jpeg : NaN
+195 :   |  ad2814be.jpeg : NaN
+196 :   |  3e3a4f77.jpeg : 2019-04-08
+197 :   |  d079725c.jpeg : 2019-06-24
+198 :   |  4d79fcf2.jpeg : 2019-07-05
+199 :   |  ed731156.jpeg : NaN
+200 :   |  1f9bdf4a.jpeg : 2019-06-06
+201 :   |  30501b83.jpeg : NaN
+202 :   |  89d9667c.jpeg : 2019-06-21
+203 :   |  f9034671.jpeg : NaN
+204 :   |  37176928.jpeg : 2019-07-12
+205 :   |  05f91a79.jpeg : 2901-07-96
+206 :   |  21e9cc19.jpeg : NaN
+207 :   |  9a137cc9.jpeg : 2019-07-21
+208 :   |  97ae705c.jpeg : NaN
+******** abo 3, 50 ****************
+apr
+209 :   |  bac3fe9e.jpeg : 2050-04-03
+210 :   |  3e8b3fad.jpeg : 2019-08-07
+211 :   |  4175425f.jpeg : NaN
+212 :   |  90733c0d.jpeg : 2019-07-19
+213 :   |  417dc9c8.jpeg : 2019-02-02
+214 :   |  2c942f50.jpeg : 2019-06-29
+215 :   |  e5235e8c.jpeg : NaN
+216 :   |  5d069db5.jpeg : 2019-07-12
+217 :   |  41879403.jpeg : 2019-06-96
+218 :   |  e6b0240b.jpeg : 2019-03-06
+219 :   |  4fef1c7e.jpeg : NaN
+220 :   |  c660b2f7.jpeg : NaN
+221 :   |  24847223.jpeg : 2019-06-28
+222 :   |  150d4dde.jpeg : NaN
+223 :   |  8f51d477.jpeg : 2019-06-13
+224 :   |  97802ad1.jpeg : 2018-08-02
+225 :   |  b06a246f.jpeg : 2018-02-13
+226 :   |  5afb1261.jpeg : NaN
+227 :   |  8a07a435.jpeg : NaN
+exception occured at f2de425f.jpeg
+229 :   |  44373191.jpeg : NaN
+230 :   |  bf0ce2ba.jpeg : NaN
+******** san 28, 2010 ****************
+jan
+231 :   |  a18a7997.jpeg : 2010-01-28
+232 :   |  e7a6f8bd.jpeg : NaN
+233 :   |  d37231f3.jpeg : 2019-01-01
+234 :   |  0156b46f.jpeg : 2019-07-25
+{'sep'}
+exception occured at 4da45cc9.jpeg
+236 :   |  bb958b7f.jpeg : NaN
+237 :   |  ec07892e.jpeg : NaN
+238 :   |  9ade947c.jpeg : NaN
+239 :   |  8c015834.jpeg : 2003-01-73
+240 :   |  7e979c6c.jpeg : 2018-10-03
+241 :   |  d8601222.jpeg : NaN
+242 :   |  991302fd.jpeg : 2027-07-06
+243 :   |  a4aee2d5.jpeg : 2017-04-27
+244 :   |  cf332c79.jpeg : NaN
+******** crem 13,00 ****************
+cre
+245 :   |  ff6b37aa.jpeg : NaN
+246 :   |  f41ce8c7.jpeg : NaN
+247 :   |  e5560cf1.jpeg : 2010-95-15
+248 :   |  71548d28.jpeg : 2019-07-17
+******** eseturger 8,99 ****************
+ese
+249 :   |  997ba80b.jpeg : NaN
+250 :   |  e59fe62f.jpeg : 2019-06-24
+251 :   |  f980a8bc.jpeg : NaN
+252 :   |  2e12ae7f.jpeg : 2019-01-07
+253 :   |  1f880ba4.jpeg : NaN
+254 :   |  5d63f1a2.jpeg : 2019-07-16
+255 :   |  4b494298.jpeg : NaN
+{'jul'}
+256 :   |  f8d4578f.jpeg : 156-07-2019
+257 :   |  7276fcd8.jpeg : 2018-11-04
+258 :   |  826bb4b1.jpeg : 2019-06-27
+{'mar'}
+259 :   |  ae906bad.jpeg : 2017-03-0y
+******** wwe 0
+35 ****************
+wwe
+260 :   |  13dc4bd4.jpeg : NaN
+261 :   |  e4413fe0.jpeg : NaN
+262 :   |  643fab2f.jpeg : 2019-06-29
+263 :   |  6f542182.jpeg : 2019-07-18
+264 :   |  6dbdd84b.jpeg : 2008-06-19
+265 :   |  0eda160c.jpeg : 2019-06-28
+266 :   |  e890664c.jpeg : NaN
+267 :   |  f85a0139.jpeg : 2018-08-28
+268 :   |  a34336fd.jpeg : 2019-07-17
+269 :   |  3c73f675.jpeg : NaN
+270 :   |  e39a91cc.jpeg : 2019-06-27
+271 :   |  a8c6b02c.jpeg : NaN
+272 :   |  1d900ca2.jpeg : 2019-07-09
+273 :   |  eb3698c6.jpeg : NaN
+274 :   |  618ce259.jpeg : 2019-04-20
+275 :   |  699f83d9.jpeg : NaN
+exception occured at b517f1ae.jpeg
+277 :   |  36285989.jpeg : NaN
+278 :   |  6cb2b839.jpeg : NaN
+279 :   |  52b8d251.jpeg : 2019-06-23
+280 :   |  a9800e10.jpeg : NaN
+281 :   |  3e4e3b6a.jpeg : 2019-07-22
+282 :   |  5d80cb45.jpeg : 2019-07-16
+283 :   |  7e60a259.jpeg : 2019-05-29
+284 :   |  fb939620.jpeg : NaN
+{'sep'}
+exception occured at b9130266.jpeg
+286 :   |  36e4ad81.jpeg : 2019-07-14
+287 :   |  9aff01ec.jpeg : NaN
+288 :   |  62b3d78b.jpeg : 2018-08-12
+289 :   |  037ef967.jpeg : NaN
+290 :   |  e6afefba.jpeg : NaN
+291 :   |  9fbebaaf.jpeg : 2016-10-04
+292 :   |  6878de95.jpeg : NaN
+293 :   |  a26adf55.jpeg : 2019-05-22
+294 :   |  2bbb8522.jpeg : NaN
+295 :   |  3055743f.jpeg : 2019-02-07
+296 :   |  8e5b620a.jpeg : 2013-03-16
+297 :   |  da2bf0dd.jpeg : NaN
+298 :   |  0c4672b4.jpeg : NaN
+299 :   |  1e3d07aa.jpeg : NaN
+300 :   |  da5e3696.jpeg : 2017-12-28
+******** ani 1 395 ****************
+apr
+301 :   |  2d27a624.jpeg : 2095-04-01
+302 :   |  ce4ec734.jpeg : NaN
+303 :   |  adc1b1d1.jpeg : 2019-02-06
+304 :   |  3519f28b.jpeg : NaN
+305 :   |  deda5875.jpeg : 2017-08-21
+306 :   |  d022521e.jpeg : NaN
+******** sarah
+
+ 
+
+12
+
+10 ****************
+mar
+307 :   |  b55eba8a.jpeg : 2010-03-12
+308 :   |  64bee512.jpeg : 2019-01-15
+309 :   |  e9a07f75.jpeg : 2019-07-16
+310 :   |  0b1664cb.jpeg : 2019-05-87
+{'may'}
+311 :   |  8e7a99a9.jpeg : 2094-05-fuel
+312 :   |  e2ce8f5a.jpeg : 2018-01-07
+313 :   |  66e32579.jpeg : 2019-07-26
+314 :   |  c22e84bf.jpeg : 2019-07-06
+315 :   |  abcc056f.jpeg : 2019-06-22
+******** jun01'19 ****************
+jun
+316 :   |  223eba39.jpeg : 2019-06-01
+317 :   |  648a919d.jpeg : 2019-07-19
+******** say 16 2019 ****************
+may
+318 :   |  b199704c.jpeg : 2019-05-16
+319 :   |  1171a5da.jpeg : 2019-07-14
+{'june'}
+320 :   |  3bf18630.jpeg : 2019-06-16
+321 :   |  96844b6d.jpeg : 2019-06-15
+322 :   |  7c9e38ba.jpeg : NaN
+323 :   |  39e7c62a.jpeg : NaN
+{'mar'}
+324 :   |  72edc0a9.jpeg : 4105-03-restaurant
+325 :   |  2de48561.jpeg : 2019-05-17
+326 :   |  c99a6da9.jpeg : NaN
+327 :   |  5c79316b.jpeg : NaN
+328 :   |  b31b7fba.jpeg : 2015-03-14
+329 :   |  fdaae374.jpeg : 2018-06-29
+330 :   |  e29e4aac.jpeg : NaN
+331 :   |  5142a222.jpeg : NaN
+332 :   |  7b987291.jpeg : 2019-02-09
+333 :   |  4a9af216.jpeg : 2019-03-06
+334 :   |  e562fd32.jpeg : 2019-05-28
+335 :   |  15bb95a8.jpeg : 2019-07-08
+336 :   |  6bab0d7d.jpeg : 2019-06-17
+******** order 1
+
+019 ****************
+ord
+337 :   |  2edff68d.jpeg : NaN
+338 :   |  d310bd8c.jpeg : 2019-06-28
+339 :   |  a5952274.jpeg : NaN
+{'april'}
+340 :   |  8600390d.jpeg : 2006-04-0¢
+341 :   |  379efbfc.jpeg : NaN
+342 :   |  0c60aa84.jpeg : 2019-06-28
+343 :   |  4ec4559a.jpeg : 2019-07-23
+344 :   |  904efee7.jpeg : NaN
+345 :   |  a8f7689b.jpeg : NaN
+346 :   |  9f100f6a.jpeg : 2020-05-19
+347 :   |  02d54805.jpeg : 2019-05-29
+348 :   |  8457a646.jpeg : 2018-07-13
+349 :   |  b3ed8ea1.jpeg : 2019-06-20
+350 :   |  58133e04.jpeg : 2019-03-06
+351 :   |  0358c6c3.jpeg : NaN
+352 :   |  1a9c056c.jpeg : 2019-06-27
+{'april', 'december'}
+exception occured at eed281d7.jpeg
+354 :   |  aa3640e5.jpeg : NaN
+{'jun'}
+355 :   |  1cd9dfed.jpeg : 2619-06-01
+356 :   |  b0ba1d29.jpeg : NaN
+357 :   |  d388a1e0.jpeg : NaN
+358 :   |  cc3853bf.jpeg : NaN
+359 :   |  96ccf006.jpeg : NaN
+360 :   |  c89d1fc8.jpeg : 2019-07-25
+361 :   |  74c2c549.jpeg : NaN
+362 :   |  8633fc48.jpeg : 2012-01-13
+363 :   |  3f2f44eb.jpeg : 2019-11-06
+364 :   |  cf78f2b0.jpeg : NaN
+365 :   |  1afb9648.jpeg : 2019-05-22
+366 :   |  376101f2.jpeg : NaN
+367 :   |  fb075aff.jpeg : 2013-01-06
+******** begs 17,00 ****************
+beg
+368 :   |  80247cd7.jpeg : NaN
+******** halibut 36 00 ****************
+hal
+369 :   |  02acce30.jpeg : NaN
+370 :   |  26738bde.jpeg : 2019-08-04
+371 :   |  4b1911d2.jpeg : 2018-11-05
+******** gelhi 1 156 ****************
+gel
+372 :   |  d21be23d.jpeg : NaN
+373 :   |  1e288e8c.jpeg : NaN
+374 :   |  9585fb50.jpeg : NaN
+******** jul12 03 ****************
+jul
+375 :   |  68c1c1de.jpeg : 2003-07-12
+******** sep28' 18 ****************
+sep
+376 :   |  6eef3a7f.jpeg : 2018-09-28
+377 :   |  c9d17f5f.jpeg : NaN
+378 :   |  43d7cd10.jpeg : 2017-10-07
+379 :   |  b21bee63.jpeg : NaN
+380 :   |  abf51544.jpeg : NaN
+381 :   |  ec8f6e40.jpeg : 2017-12-22
+******** chicken 1 605 ****************
+chi
+382 :   |  96e270fd.jpeg : NaN
+383 :   |  7d3d33d3.jpeg : NaN
+384 :   |  5f2e42d9.jpeg : NaN
+385 :   |  f29424af.jpeg : NaN
+386 :   |  7f892b9b.jpeg : NaN
+387 :   |  0308aae2.jpeg : NaN
+******** mobile 91 362 ****************
+mob
+388 :   |  c89a5476.jpeg : NaN
+389 :   |  de279295.jpeg : 2019-06-24
+******** tst 68 09 ****************
+oct
+390 :   |  e756ff2c.jpeg : 2009-10-68
+******** cheese 0,50 ****************
+che
+391 :   |  318663fa.jpeg : NaN
+392 :   |  a5b617de.jpeg : NaN
+393 :   |  b666ee43.jpeg : NaN
+394 :   |  2ad1b322.jpeg : 2019-16-29
+395 :   |  cdac31b4.jpeg : NaN
+396 :   |  3cdec471.jpeg : NaN
+397 :   |  16929bef.jpeg : 2014-05-22
+398 :   |  80da81d4.jpeg : 2019-06-25
+399 :   |  208e94bb.jpeg : 2019-01-06
+400 :   |  049c8dfd.jpeg : NaN
+401 :   |  513a9167.jpeg : 2019-07-18
+402 :   |  4d207768.jpeg : NaN
+403 :   |  a1cdfdde.jpeg : 2019-06-06
+{'jan'}
+404 :   |  62611b46.jpeg : 2018-01-25
+405 :   |  d1512e12.jpeg : 2019-10-06
+406 :   |  6c447c78.jpeg : 2018-06-24
+407 :   |  e50fe5f9.jpeg : NaN
+408 :   |  64d55742.jpeg : NaN
+409 :   |  badf0c6e.jpeg : NaN
+410 :   |  8558b94e.jpeg : 2018-06-29
+411 :   |  9d135554.jpeg : NaN
+412 :   |  8939f524.jpeg : 2017-09-27
+413 :   |  04887bab.jpeg : 7209-97-99
+414 :   |  758414d5.jpeg : NaN
+415 :   |  e1363e44.jpeg : NaN
+416 :   |  c7323e60.jpeg : NaN
+417 :   |  b1c64bac.jpeg : NaN
+418 :   |  69095b91.jpeg : NaN
+419 :   |  6e5b73db.jpeg : 2019-06-09
+420 :   |  6a6e2a14.jpeg : 2019-03-19
+421 :   |  715d59e4.jpeg : NaN
+422 :   |  1191438d.jpeg : 2018-06-30
+423 :   |  265001bf.jpeg : NaN
+424 :   |  093304e6.jpeg : NaN
+{'april'}
+425 :   |  89648cb6.jpeg : 2007-04-0c
+426 :   |  65f3d160.jpeg : NaN
+427 :   |  4bdd80e2.jpeg : 2019-07-25
+428 :   |  cce28d60.jpeg : NaN
+429 :   |  792e12f9.jpeg : 2019-06-24
+430 :   |  4af6d4a7.jpeg : NaN
+431 :   |  c532025f.jpeg : NaN
+432 :   |  7eb86b39.jpeg : NaN
+433 :   |  7ba45680.jpeg : NaN
+434 :   |  df00dff6.jpeg : 2019-07-16
+435 :   |  fb835913.jpeg : 2006-09-05
+436 :   |  4883a482.jpeg : 2019-09-03
+437 :   |  b5e8f967.jpeg : NaN
+438 :   |  a47ae875.jpeg : 2017-12-05
+439 :   |  ff2f420c.jpeg : NaN
+440 :   |  899d661a.jpeg : 2019-06-15
+441 :   |  94c84d39.jpeg : 2017-02-18
+442 :   |  25635faa.jpeg : NaN
+443 :   |  156e0f63.jpeg : 2019-05-19
+******** aug23'19 ****************
+aug
+444 :   |  5e43dac3.jpeg : 2019-08-23
+445 :   |  745b1998.jpeg : 2019-05-17
+446 :   |  43d4608f.jpeg : 2019-05-13
+447 :   |  fecc3c48.jpeg : 2012-12-09
+448 :   |  afa578d9.jpeg : NaN
+449 :   |  d464ba5d.jpeg : 2019-05-27
+450 :   |  b8c01c17.jpeg : NaN
+451 :   |  0728f702.jpeg : NaN
+452 :   |  317fb684.jpeg : NaN
+453 :   |  c6b7675c.jpeg : NaN
+454 :   |  558a9aa9.jpeg : 2017-12-31
+455 :   |  d1796a85.jpeg : NaN
+456 :   |  86ed0984.jpeg : 2019-06-22
+exception occured at Untitled.ipynb
+458 :   |  f2e9be84.jpeg : 2019-05-22
+459 :   |  e737307f.jpeg : 2019-06-26
+460 :   |  3530e6d1.jpeg : 2019-25-67
+461 :   |  b8c35020.jpeg : NaN
+462 :   |  710e2d39.jpeg : 2018-04-13
+463 :   |  0daa6a1c.jpeg : 2019-12-07
+464 :   |  2b4713c8.jpeg : NaN
+******** bit 1 26 ****************
+oct
+465 :   |  9081eb41.jpeg : 2026-10-01
+466 :   |  c5264903.jpeg : NaN
+467 :   |  40e86c08.jpeg : 2019-05-04
+{'jan', 'may'}
+exception occured at d48e2bc0.jpeg
+469 :   |  077124e4.jpeg : NaN
+470 :   |  c87ae05e.jpeg : NaN
+471 :   |  0406cfb1.jpeg : 2019-07-17
+472 :   |  5c670322.jpeg : NaN
+473 :   |  651f5503.jpeg : NaN
+474 :   |  ffe2a9a0.jpeg : NaN
+475 :   |  f484b2e9.jpeg : 2019-06-24
+476 :   |  ee13198f.jpeg : 2019-08-07
+477 :   |  43edeb2e.jpeg : NaN
+478 :   |  2c500858.jpeg : 2016-05-26
+******** apr07' 16 ****************
+apr
+479 :   |  ec5f70cb.jpeg : 2016-04-07
+480 :   |  3bfa05ad.jpeg : 2018-09-25
+481 :   |  9bf563ad.jpeg : NaN
+482 :   |  5dca8c72.jpeg : NaN
+483 :   |  f119f71a.jpeg : 2015-08-30
+484 :   |  8290ec25.jpeg : 2018-01-11
+485 :   |  b8cc912d.jpeg : NaN
+******** tak 2 698 ****************
+may
+486 :   |  a3dd3ffb.jpeg : 2098-05-02
+487 :   |  2fdd6a08.jpeg : 2019-04-06
+488 :   |  96a5541a.jpeg : NaN
+489 :   |  ddddaf89.jpeg : 2019-01-06
+490 :   |  d330054e.jpeg : 2019-05-28
+******** mbu8 558 ****************
+mar
+491 :   |  70b0dba1.jpeg : 2058-03-08
+******** cht 1 11 ****************
+oct
+492 :   |  f963b6ca.jpeg : 2011-10-01
+493 :   |  637456ba.jpeg : NaN
+494 :   |  31761796.jpeg : 2019-07-02
+495 :   |  f9aa53c2.jpeg : NaN
+496 :   |  105e97c5.jpeg : NaN
+497 :   |  e8dfe984.jpeg : 2019-06-18
+498 :   |  f78e114d.jpeg : NaN
+499 :   |  e16297a7.jpeg : NaN
+500 :   |  557dc266.jpeg : NaN
+501 :   |  9ae2c1aa.jpeg : 2019-11-07
+502 :   |  28fe14e7.jpeg : NaN
+503 :   |  d119364e.jpeg : 2019-05-06
+******** reg 20,465 ****************
+feb
+504 :   |  13531d03.jpeg : 2065-02-20
+505 :   |  956be7eb.jpeg : 2019-11-06
+506 :   |  d1a20345.jpeg : 2016-12-03
+507 :   |  8e16764a.jpeg : NaN
+508 :   |  82aed0de.jpeg : NaN
+509 :   |  fae4ae81.jpeg : 2019-05-17
+510 :   |  3bce4b60.jpeg : NaN
+******** jul18 06 ****************
+jul
+511 :   |  32b4d880.jpeg : 2006-07-18
+{'mar'}
+512 :   |  b7c49556.jpeg : 2030-03-tate
+513 :   |  e1540843.jpeg : NaN
+514 :   |  57c7c0a6.jpeg : NaN
+515 :   |  2b577c41.jpeg : 2019-03-02
+516 :   |  3331e5f3.jpeg : NaN
+517 :   |  3deff9fb.jpeg : 2019-05-31
+518 :   |  804c5522.jpeg : NaN
+519 :   |  88e28b23.jpeg : 2019-07-18
+520 :   |  0efaa622.jpeg : 2019-04-30
+521 :   |  5b6ee5a0.jpeg : 201-12-29
+522 :   |  693a7582.jpeg : NaN
+******** aerojet 14,95 ****************
+aer
+523 :   |  6d53e280.jpeg : NaN
+******** total
+
+7,99 ****************
+tot
+524 :   |  d50224be.jpeg : NaN
+525 :   |  ec1853b1.jpeg : 2018-07-21
+{'apr'}
+526 :   |  fc4ea984.jpeg : 2019-04-10
+527 :   |  3d06f10e.jpeg : 2019-83-25
+528 :   |  c69d5a43.jpeg : NaN
+529 :   |  5cb08cab.jpeg : NaN
+{'sep'}
+530 :   |  01a0cabb.jpeg : 2018-09-29
+531 :   |  73313aba.jpeg : NaN
+532 :   |  81c972d3.jpeg : 2019-02-19
+533 :   |  da1bf674.jpeg : NaN
+534 :   |  1f2e0222.jpeg : 2018-10-20
+535 :   |  c43f882f.jpeg : NaN
+536 :   |  01048818.jpeg : NaN
+537 :   |  912ad2e1.jpeg : 2019-06-18
+538 :   |  ca7a837e.jpeg : NaN
+539 :   |  b0d5d8c5.jpeg : 2010-06-03
+540 :   |  abd76c4b.jpeg : NaN
+541 :   |  aba42498.jpeg : 2017-07-01
+542 :   |  57c169de.jpeg : NaN
+******** tax 0,00 ****************
+may
+543 :   |  82953a03.jpeg : 2000-05-00
+544 :   |  18e9efcf.jpeg : NaN
+545 :   |  8651523e.jpeg : NaN
+546 :   |  5c2b38f0.jpeg : NaN
+547 :   |  ecb4f350.jpeg : 2018-12-91
+548 :   |  46ca4063.jpeg : NaN
+549 :   |  5ff14463.jpeg : NaN
+550 :   |  988159af.jpeg : NaN
+551 :   |  55291d91.jpeg : 2019-06-12
+552 :   |  e093c331.jpeg : 2019-06-23
+******** jun19'19 ****************
+jun
+553 :   |  148ebe90.jpeg : 2019-06-19
+554 :   |  d24165d5.jpeg : 4700-11-84
+555 :   |  f74ffded.jpeg : NaN
+556 :   |  982b02cf.jpeg : NaN
+557 :   |  02f4068e.jpeg : 2019-07-03
+558 :   |  9fc011f7.jpeg : NaN
+559 :   |  c9afb011.jpeg : NaN
+560 :   |  8930e861.jpeg : NaN
+561 :   |  ff8e6691.jpeg : NaN
+******** noodles 1 155 ****************
+noo
+562 :   |  0cdf6ec0.jpeg : NaN
+563 :   |  a1ea8555.jpeg : NaN
+564 :   |  e145bcc7.jpeg : NaN
+565 :   |  bd30660c.jpeg : 2017-12-17
+566 :   |  d406bbbf.jpeg : NaN
+567 :   |  d1c36f6e.jpeg : 2015-01-08
+568 :   |  332c05ec.jpeg : NaN
+569 :   |  212ab88f.jpeg : 2004-07-19
+570 :   |  aff8e5ab.jpeg : 2018-01-23
+571 :   |  13b63796.jpeg : 2016-11-24
+572 :   |  1ed34833.jpeg : NaN
+573 :   |  78bce3b1.jpeg : NaN
+******** tax 5 39 ****************
+may
+574 :   |  2b931f74.jpeg : 2039-05-05
+575 :   |  1b0a9723.jpeg : 2019-07-19
+576 :   |  5ca33654.jpeg : 2019-04-26
+577 :   |  de847c7f.jpeg : NaN
+578 :   |  da0978f5.jpeg : NaN
+579 :   |  d044bade.jpeg : NaN
+580 :   |  a2ce1b5e.jpeg : NaN
+581 :   |  70edf5c1.jpeg : NaN
+582 :   |  75351233.jpeg : NaN
+583 :   |  9219d71b.jpeg : 2019-07-19
+584 :   |  7383041e.jpeg : 2019-06-06
+585 :   |  e7205cbe.jpeg : NaN
+586 :   |  04f988a3.jpeg : NaN
+587 :   |  9a8e24a1.jpeg : NaN
+588 :   |  9966a3ad.jpeg : NaN
+589 :   |  365c3104.jpeg : 2019-06-10
+590 :   |  8185e1b8.jpeg : NaN
+{'january'}
+591 :   |  fe41933a.jpeg : 2018-01-0a
+592 :   |  068ea6e6.jpeg : NaN
+******** jun28' 17 ****************
+jun
+593 :   |  ad742eb5.jpeg : 2017-06-28
+594 :   |  0a0ebd53.jpeg : NaN
+******** dul 1, 2019 ****************
+jul
+595 :   |  db5b86d1.jpeg : 2019-07-01
+596 :   |  f23085d1.jpeg : 2019-02-28
+*******ALLLLLLLLLL DONEEEEEE********************
