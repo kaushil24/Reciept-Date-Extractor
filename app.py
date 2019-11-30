@@ -24,6 +24,7 @@ def index():
         image_result = open('recieved_img.jpeg', 'wb')
         image_result.write(image_64_decode)
         mtx = cv.imread('recieved_img.jpeg')
+        mtx = pp.rescale(mtx)
         content = tx.extractTxt(mtx)
         date = dx.extractDate(content)
         response = {'date' : date }
