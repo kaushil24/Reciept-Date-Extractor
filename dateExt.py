@@ -9,6 +9,7 @@ from autocorrect import Speller
 
 class dateExtractor():
 
+    
     def formatMaker(self, date, month, year):
         if int(month)>12:
             date, month = month, date
@@ -19,7 +20,11 @@ class dateExtractor():
             month = '0'+month
         if len(year)==2:
             year="20"+year
-       
+
+        if int(date)>31 or int(month)>12 or (int(year)>2019 or int(year)<2000):
+            return 'null'
+
+
         return year+"-"+month+"-"+date
 
 
@@ -48,6 +53,7 @@ class dateExtractor():
                 temp_year = ''.join(content.lower().split()[idx+2:idx+5])
             year = re.findall(r"\d{2,4}", temp_year)[0]
             return self.formatMaker(date, mnt, year)
+        
         elif common1:
             print(common1)
             x = ''.join(common1)
@@ -61,10 +67,15 @@ class dateExtractor():
             year = re.findall(r"\d{2,4}", temp_year)[0]
             return self.formatMaker(date, mnt, year)
 
-        
-        
+        # For dates like: 2016-07-08
+        if re.search(r"\d{4}[.-]\d{1,2}[.-]\d{1,2}", content):
+            temp = re.findall(r"\d{4}[.-]\d{1,2}[.-]\d{1,2}", content)[0]
+            ls = re.split(r"[./-]", temp)
+            return self.formatMaker(ls[2], ls[1], ls[0])
+
+
         # For Dates like: 6.12.2019 or 06-2-2019 etc
-        if re.search(r"\d{1,2}[.-]\d{1,2}[.-]\d{2,4}", content):
+        elif re.search(r"\d{1,2}[.-]\d{1,2}[.-]\d{2,4}", content):
             temp = re.findall(r"\d{1,2}[.-]\d{1,2}[.-]\d{2,4}", content)[0]
             ls = re.split(r"[./-]", temp)
             return self.formatMaker(ls[0], ls[1], ls[2])
