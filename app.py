@@ -21,14 +21,17 @@ def index():
         try:
 
             r = request
-            # if r.method=="POST":
             image_64_decode = base64.decodestring(r.data)
             image_result = open('recieved_img.jpeg', 'wb')
             image_result.write(image_64_decode)
             mtx = cv.imread('recieved_img.jpeg')
+            
+            # Writ logic here to perform manipulation on image
             mtx = pp.rescale(mtx)
             content = tx.extractTxt(mtx)
             date = dx.extractDate(content)
+            
+            # Return response:
             response = {'date' : date }
             # encode response using jsonpickle
             response_pickled = jsonpickle.encode(response)
